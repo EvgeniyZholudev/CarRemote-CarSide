@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CarRemote-CarSide</string>
+    <string name="title_activity_users">UsersActivity</string>
+</resources>
